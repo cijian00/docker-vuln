@@ -1,0 +1,8 @@
+version: '2'
+services:
+ vuln-bwapp:
+   image: vuln:001-bwapp
+   build: .
+   ports:
+    - "38080:80"
+   restart: always
