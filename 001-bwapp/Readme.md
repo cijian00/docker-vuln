@@ -1,6 +1,6 @@
 # bwapp-docker
 - 默认映射端口是38080，浏览器输入ip:38080即可访问。
-- 用户名密码为:bee/123。
+- 用户名密码为:bee/bug。
 ```
 docker-compose build
 docker-compose up -d
